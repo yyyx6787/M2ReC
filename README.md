@@ -1,7 +1,7 @@
 # M2ReC
 
 
-> **M2Rec: Multi-scale Mamba with Adaptive FFT and LLMs for Sequential Recommendation**
+> **M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**
 
 ## Usage
 
